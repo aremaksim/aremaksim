@@ -8,13 +8,16 @@
   <img src="https://img.shields.io/github/followers/aremaksim?label=Follow" alt="Followers">
 </p>
 
+<br>
+
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** FH Campus Wien - Bachelor of Science (graduating 2025)
 - 🏢 **Current Role:** Applying for internships
 - 🌱 **Currently Learning:** AR/VR/IT-Security
 - 💬 **Ask Me About:** Unity, Games-Developing, Mobile App Developing, Web Depelopment
-- ⚡ **Fun Fact:** <img align="center" alt="Binary" width="70" height="50" src="https://github.com/user-attachments/assets/2e3bd550-fcae-4401-92b6-2355426a5324">
+- ⚡ **Fun Fact:** <img align="center" alt="Binary" width="100" height="45" src="https://github.com/user-attachments/assets/2e3bd550-fcae-4401-92b6-2355426a5324">
+<br>
 
 ### 🚀 Skills
 
@@ -55,10 +58,17 @@
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
 
+<br>
 
+### 📈 My Github Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aremaksim&hide=stars,prs&count_private=true&show_icons=true&theme=dark)](https://github.com/aremaksim/github-readme-stats)
+<br>
 
 ### 🏆 My Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=aremaksim&theme=onedark&title=Commits,Experience,Repositories)](https://github.com/aremaksim/github-profile-trophy)
+
+<br>
+
 
 ### 💻 Some Recent Projects
 
@@ -66,18 +76,21 @@
 - [**Pets App**](https://github.com/YunoGH/MAD_Project_AnimalApp) - An Android Studio Mobile App for organizing Pet care.
 - [**Snacky**](https://github.com/ObatolaFH/Snacky_v.01) - A Pacman remake.
 
+<br>
+
 ### 📫 Contact
 
 - **Email:** [maksimovic34@gmail.com](mailto:maksimovic34@gmail.com)
 - **Website:** [aremaksim.top](https://aremaksim.top)
 - **GitHub:** [github.com/aremaksim](https://github.com/aremaksim)
 
+<br>
 
 ---
 
-<p align="center"><img src="https://github.com/ZoeMRuf/SmokingPot-Snake/blob/master/src/main/resources/SnakyBlack.png" alt="SnakyGreen" width="50px">
+<p align="center"><img src="https://github.com/ZoeMRuf/SmokingPot-Snake/blob/master/src/main/resources/SnakyBlack.png" alt="SnakyGreen" width="40px">
  © 2024 Are Maksim - All Rights Reserved
-  <img src="https://github.com/ZoeMRuf/SmokingPot-Snake/blob/master/src/main/resources/SnakyBlack.png" alt="SnakyGreen" width="50px">
+  <img src="https://github.com/ZoeMRuf/SmokingPot-Snake/blob/master/src/main/resources/SnakyBlack.png" alt="SnakyGreen" width="40px">
 
 </p>
 
