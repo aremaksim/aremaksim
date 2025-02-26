@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** FH Campus Wien - Bachelor of Science (graduating 2025)
-- 🏢 **Current Role:** Internship at Österreichische HochschülerInnenschaft (ÖH) - the austrian students unio
+- 🏢 **Current Role:** Internship at Österreichische HochschülerInnenschaft (ÖH) - the Austrian Students Union
 - 🌱 **Currently Learning:** Web Development, IT-Security, Data Migration
 - 💬 **Ask Me About:** Unity, Games-Developing, Mobile App Developing, Web Depelopment, VR
 - ⚡ **Fun Fact:** <img align="center" alt="Binary" width="100" height="45" src="https://github.com/user-attachments/assets/2e3bd550-fcae-4401-92b6-2355426a5324">
