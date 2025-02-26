@@ -55,7 +55,7 @@
   [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
   [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
   ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
-  ![ARCore](https://upload.wikimedia.org/wikipedia/commons/f/fa/Ar_core.svg?logo=arcore&logoColor=white)
+  ![ARCore](https://upload.wikimedia.org/wikipedia/commons/f/fa/Ar_core.svg?style=flat&logo=arcore&logoColor=white)
 
 
 - **Tools:**
