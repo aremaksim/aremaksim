@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** FH Campus Wien - Bachelor of Science (graduating 2025)
-- 🏢 **Current Role:** Internship at Österreichische HochschülerInnenschaft (ÖH) - the Austrian Students Union
+- 🏢 **Last Role:** Web Developer at Österreichische HochschülerInnenschaft (ÖH) - the Austrian Students Union
 - 🌱 **Currently Learning:** Web Development, IT-Security, Data Migration
 - 💬 **Ask Me About:** Unity, Games-Developing, Mobile App Developing, Web Depelopment, VR
 - ⚡ **Fun Fact:** <img align="center" alt="Binary" width="100" height="45" src="https://github.com/user-attachments/assets/2e3bd550-fcae-4401-92b6-2355426a5324">
@@ -94,6 +94,7 @@
 
 ### 💻 Some Recent Projects
 
+- [**Progress Magazine Website**](https://progress-online.at) - Website of Progress Magazine.
 - [**PixelPanic**](https://github.com/c2210475026/GameJam) - Unity 2D Computer Game PixelPanic. (Won 1st Price in FH Campus Wien GameJam 2025!)
 - [**Imagimon**](https://github.com/ObatolaFH/Imagimon) - Unity 2D Computer Game Imagimon.
 - [**Pets App**](https://github.com/YunoGH/MAD_Project_AnimalApp) - An Android Studio Mobile App for organizing Pet care.
