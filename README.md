@@ -106,6 +106,7 @@
 - **Email:** [maksimovic34@gmail.com](mailto:maksimovic34@gmail.com)
 - **Website:** [aremaksim.top](https://aremaksim.top)
 - **GitHub:** [github.com/aremaksim](https://github.com/aremaksim)
+- **LinkedIn:** [linkedin.com/in/](https://www.linkedin.com/in/are-maksimović-b40807354/)
 
 <br>
 
