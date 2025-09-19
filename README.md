@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Computer Science and Digital Communications - Bachelor of Science from FH Campus Wien (2025)
+- 🎓 **Education:** Computer Science and Digital Communications - Bachelor of Science in Engineering from FH Campus Wien (2025)
 - 🏢 **Recent Work Experience:** Web Developer at Österreichische HochschülerInnenschaft (ÖH) - the Austrian Students Union (2025)
 - 💬 **Ask Me About:** Unity, Games-Developing, Mobile App Developing, Web Depelopment, VR, Databases, Distributed Systems
 - ⚡ **Fun Fact:** <img align="center" alt="Binary" width="100" height="45" src="https://github.com/user-attachments/assets/2e3bd550-fcae-4401-92b6-2355426a5324">
@@ -93,7 +93,7 @@
 
 ### 💻 Some Recent Projects
 
-- [**Progress Magazine Website**](https://progress-online.at) - Website of Progress Magazine.
+- [**Progress Magazine Website**](https://progress-online.at) - Developer of the Progress Magazine of ÖH
 - [**PixelPanic**](https://github.com/c2210475026/GameJam) - Unity 2D Computer Game PixelPanic. (Won 1st Price in FH Campus Wien GameJam 2025!)
 - [**Imagimon**](https://github.com/ObatolaFH/Imagimon) - Unity 2D Computer Game Imagimon.
 - [**Pets App**](https://github.com/YunoGH/MAD_Project_AnimalApp) - An Android Studio Mobile App for organizing Pet care.
