@@ -69,9 +69,9 @@
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
   [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
   [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
-  [![Confluence](https://play-lh.googleusercontent.com/ioJTF4OMDt2-x3Mnz_LEIHpoGjig_g7nfECiKsaFlvasBeo0myuKqnc6XHoItyL3OSE=w480-h960)](#)
-  ![Trello]([https://e7.pngegg.com/pngimages/26/74/png-clipart-trello-logo-slack-atlassian-trello-blue-text-thumbnail.png)](#)](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-  ![Jira]([https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white))
+  [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)](#)
+  [![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)](#)
+  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](#)
 
 - **IDEs:**
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
