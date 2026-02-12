@@ -95,7 +95,7 @@
 
 ### 💻 Some Recent Projects
 
-- [**Progress Magazine Website**](https://progress-online.at) - Developer of the Progress Magazine of ÖH
+- [**Progress Magazine Website**](https://progress-online.at) - Developer of the online Progress Magazine of ÖH (Austrian Students Union)
 - [**PixelPanic**](https://github.com/c2210475026/GameJam) - Unity 2D Computer Game PixelPanic. (Won 1st Price in FH Campus Wien GameJam 2025!)
 - [**Imagimon**](https://github.com/ObatolaFH/Imagimon) - Unity 2D Computer Game Imagimon.
 - [**Pets App**](https://github.com/YunoGH/MAD_Project_AnimalApp) - An Android Studio Mobile App for organizing Pet care.
