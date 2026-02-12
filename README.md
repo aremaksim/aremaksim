@@ -92,15 +92,6 @@
 
 <br>
 
-### 📈 My Github Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aremaksim&hide=stars,prs&count_private=true&show_icons=true&theme=dark)](https://github.com/aremaksim)
-<br>
-
-### 🏆 My Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=aremaksim&theme=onedark&no-frame=true&margin-w=10)](https://github.com/aremaksim)
-
-<br>
-
 
 ### 💻 Some Recent Projects
 
