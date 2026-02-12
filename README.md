@@ -54,7 +54,7 @@
   [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
   [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
   ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
-  ![Payload](https://www.gartner.com/pi/vendorimages/payload-cms_web-content-management_1733948847234.png)
+  [![Payload](https://www.gartner.com/pi/vendorimages/payload-cms_web-content-management_1733948847234.png)](#)
   ![ARCore](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ar_core.svg/120px-Ar_core.svg.png)
 
 
@@ -69,9 +69,9 @@
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
   [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
   [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
-  [![Confluence](https://play-lh.googleusercontent.com/ioJTF4OMDt2-x3Mnz_LEIHpoGjig_g7nfECiKsaFlvasBeo0myuKqnc6XHoItyL3OSE=w480-h960)]
-  ![Jira](https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png)
-  ![Trello](https://e7.pngegg.com/pngimages/26/74/png-clipart-trello-logo-slack-atlassian-trello-blue-text-thumbnail.png)
+  [![Confluence](https://play-lh.googleusercontent.com/ioJTF4OMDt2-x3Mnz_LEIHpoGjig_g7nfECiKsaFlvasBeo0myuKqnc6XHoItyL3OSE=w480-h960)](#)
+  [![Trello](https://e7.pngegg.com/pngimages/26/74/png-clipart-trello-logo-slack-atlassian-trello-blue-text-thumbnail.png)](#)
+  [![Jira](https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png)](#)
 
 - **IDEs:**
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
