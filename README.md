@@ -13,6 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Computer Science and Digital Communications - Bachelor of Science in Engineering from FH Campus Wien (2025)
+- 🏢 **Last Work Experience:** Web Developer and IT Support at NCA New Concept Agentur (2026)
 - 🏢 **Recent Work Experience:** Web Developer at Österreichische HochschülerInnenschaft (ÖH) - the Austrian Students Union (2025)
 - 💬 **Ask Me About:** Unity, Games-Developing, Mobile App Developing, Web Depelopment, VR, Databases, Distributed Systems
 - ⚡ **Fun Fact:** <img align="center" alt="Binary" width="100" height="45" src="https://github.com/user-attachments/assets/2e3bd550-fcae-4401-92b6-2355426a5324">
