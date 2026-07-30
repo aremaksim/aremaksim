@@ -96,6 +96,7 @@
 
 ### 💻 Some Recent Projects
 
+- [**New Concept Agentur**](https://newconceptagentur.com) - Junior Web Developer and IT-Support for https://blickpunktjuwelier.de and https://bielert.de
 - [**Progress Magazine Website**](https://progress-online.at) - Developer of the online Progress Magazine of ÖH (Austrian Students Union)
 - [**PixelPanic**](https://github.com/c2210475026/GameJam) - Unity 2D Computer Game PixelPanic. (Won 1st Price in FH Campus Wien GameJam 2025!)
 - [**Imagimon**](https://github.com/ObatolaFH/Imagimon) - Unity 2D Computer Game Imagimon.
